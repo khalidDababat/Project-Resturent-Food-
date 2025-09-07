@@ -54,6 +54,7 @@ header {
     background-position: center;
     background-size: cover; 
     position: relative;
+   
 }
 #navbar{
     display: flex;
@@ -99,6 +100,7 @@ header .content{
     align-items: center;
     justify-content: center;
     height: 75%;
+    
 }
 
 header .content h1{
@@ -120,6 +122,7 @@ header::before{
     height: 100%;
     width: 100%; 
     background :rgb(0, 0, 0, 0.6);
+    
 }
 
 header * {
